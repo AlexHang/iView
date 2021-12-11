@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1881008849",
+    "project_id": "computer-vision-classifier",
+    "storage_bucket": "computer-vision-classifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1881008849:android:58d3e39890f2af301573f0",
+        "android_client_info": {
+          "package_name": "com.alexhang.computer_vision_classifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1881008849-6gf1iv82gmgs7ec8ed8b96js20dd3mm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZncExDXqVz459IKlaG1cZLtkIzuVES3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1881008849-6gf1iv82gmgs7ec8ed8b96js20dd3mm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1881008849:android:bc0777555c0029d01573f0",
+        "android_client_info": {
+          "package_name": "com.alexhang.object_detector_cv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1881008849-6gf1iv82gmgs7ec8ed8b96js20dd3mm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZncExDXqVz459IKlaG1cZLtkIzuVES3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1881008849-6gf1iv82gmgs7ec8ed8b96js20dd3mm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
